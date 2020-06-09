@@ -38,6 +38,4 @@ MultinomialNB             0.503106
 RandomForestClassifier    0.519317
 Name: accuracy, dtype: float64
 
-https://www.kaggle.com/kerneler/starter-fake-news-dataset-4e88fa9f-b/data
-
 
